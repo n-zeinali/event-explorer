@@ -10,7 +10,7 @@ export default function Index() {
   const events = eventsData as EventItem[];
 
   const [selectedEvent, setSelectedEvent] = useState<EventItem | null>(null);
-  const [hoveredEvent, setHoveredEvent] = useState<EventItem | null>(null);
+  const [, setHoveredEvent] = useState<EventItem | null>(null);
   const [category, setCategory] = useState<string>('all');
   const [search, setSearch] = useState<string>('');
 
