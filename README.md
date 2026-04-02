@@ -95,12 +95,12 @@ These screenshots demonstrate the main features of the application, including ma
 </p>
 
 <p align="center">
-  <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-32.png" width="45%" />
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-26-30.png" width="45%" />
   <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-57.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="docs/images/Screenshot%20from%202026-04-02%2014-26-30.png" width="45%" />
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-32.png" width="45%" />
 </p>
 
 ---
