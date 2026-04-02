@@ -34,7 +34,7 @@ Users can:
 ### Version 1 (v1.0.0)
 - Events loaded from a local JSON file
 
-### Version 2 (v1.1.0)
+### Version 2 (v2.0.0)
 - Events served through a Laravel API
 - JSON file is now read by backend service
 
