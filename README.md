@@ -80,6 +80,30 @@ Users can:
 
 ---
 
+## Screenshots
+
+These screenshots demonstrate the main features of the application, including map interaction, event selection, and filtering.
+
+<p align="center">
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-24-39.png" width="45%" />
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-24-50.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-24-59.png" width="45%" />
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-15.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-32.png" width="45%" />
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-25-57.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="docs/images/Screenshot%20from%202026-04-02%2014-26-30.png" width="45%" />
+</p>
+
+---
 ## Author
 
 Nafiseh Zeinali
